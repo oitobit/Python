@@ -19,6 +19,7 @@ print(myvar)
 print(_my_var_)
 print(myVar2)
 
+
 """
 Multi Words Variable Names
 Variable names with more than one word can be difficult to read.
